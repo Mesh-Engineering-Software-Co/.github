@@ -27,8 +27,8 @@ To realize above mentioned applications, MESH works with a strong team formed by
 * Underwater Explosion (UNDEX) Analyses
 
 ## Vibro-Acoustic Noise Analysis
-*Vibro-Acoustic Noise Analysis
-*Underwater Noise Analysis
+* Vibro-Acoustic Noise Analysis
+* Underwater Noise Analysis
 
 # Software Systems
 Software technology that occupies in modern times a very important position for the development of humanity in terms of science and community, will take attraction more and more in the future. MESH by following very closely the developments in this area, provides reliable and innovative products and services that fit the customers' needs.
